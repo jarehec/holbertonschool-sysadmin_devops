@@ -1,2 +1,2 @@
 #!/bin/bashq
-chmod 5 hello
+chmod 764 hello
