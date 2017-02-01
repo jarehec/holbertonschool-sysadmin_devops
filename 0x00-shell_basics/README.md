@@ -1,1 +1,1 @@
-2nd day project2nd day project
+2nd day project
