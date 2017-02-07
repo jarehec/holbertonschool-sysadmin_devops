@@ -9,4 +9,7 @@
 <p>8-true_knowledge		- prints the result of $TRUEKNOWLEDGE + 128</p>
 <p>9-divide_and_rule		- prints the result of POWER / DIVIDE</p>
 <p>10-love_exponent_breath	- displays BREATH  to the power of LOVE</p>
+<p>11-binary_to_decimal		- converts binary to decimal</p>
 <p>12-combinations		- prints all combinations of two letters except oo</p>
+<p>13-print_float		- prints the value of $NUM to two decimal places</p>
+<p>14-decimal_to_hexadecimal	- converts decimal to hexadecimal
