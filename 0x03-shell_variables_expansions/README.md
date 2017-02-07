@@ -39,14 +39,6 @@
     <td>9-divide_and_rule</td>
     <td> - prints the result of POWER / DIVIDE</td>
   </tr>
-   <tr>
-    <td>9-divide_and_rule</td>
-    <td> - prints the result of POWER / DIVIDE</td>
-  </tr>
-  <tr>
-    <td>9-divide_and_rule</td>
-    <td> - prints the result of POWER / DIVIDE</td>
-  </tr>
   <tr>
     <td>10-love_exponent_breath</td>
     <td> - displays BREATH to the power of LOVE</td>
