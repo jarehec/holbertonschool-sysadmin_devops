@@ -12,4 +12,4 @@
 <p>11-binary_to_decimal 	- converts binary to decimal</p>
 <p>12-combinations      	- prints all combinations of two letters except oo</p>
 <p>13-print_float       	- prints the value of $NUM to two decimal places</p>
-<p>14-decimal_to_hexadecimal    - converts decimal to hexadecimal
+<p>14-decimal_to_hexadecimal    - converts decimal to hexadecimal</p>
